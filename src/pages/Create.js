@@ -1,9 +1,10 @@
+import Typography from '@mui/material/Typography'
 import React from 'react'
 
 export default function Create() {
   return (
-    <div>
-      Create page
-    </div>
+    <Typography>
+      Hello World
+    </Typography>
   )
 }
